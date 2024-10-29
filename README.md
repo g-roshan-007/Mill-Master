@@ -1,4 +1,4 @@
-# 🌾 MillMaster  
+# 🌾 Mill Master  
 **Transforming Rice Mill Management, One Grain at a Time**  
 
 MillMaster is a Salesforce CRM application designed to streamline and enhance the management of wholesale rice mills. Built specifically for the rice mill industry, this solution centralizes operations, supplier data, consumer interactions, and detailed analytics on a single, intuitive Salesforce platform.
