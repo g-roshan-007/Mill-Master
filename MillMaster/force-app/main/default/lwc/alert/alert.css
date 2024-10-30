@@ -1,0 +1,37 @@
+/* General styles for the card */
+.slds-card {
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Styling for the header title */
+.slds-card__header {
+    background-color: #f4f6f9;
+    border-bottom: 1px solid #d8dde6;
+    padding: 16px;
+    border-radius: 8px 8px 0 0;
+}
+
+/* Styling for error messages */
+.slds-text-color_error {
+    color: #d9534f;
+    font-weight: bold;
+}
+
+/* Styling for success messages */
+.slds-text-color_success {
+    color: #5cb85c;
+}
+
+/* Spacing for the body content */
+.slds-m-around_medium {
+    margin: 16px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .slds-m-around_medium {
+        margin: 10px;
+    }
+}

@@ -1,0 +1,16 @@
+<template>
+    <lightning-card title="Rice Stock Alert" icon-name="utility:warning">
+        <div class="slds-m-around_medium">
+            <template if:true={isLowStock}>
+                <div class="slds-text-color_error slds-m-bottom_small">
+                    {alertMessage}
+                </div>
+            </template>
+            <template if:false={isLowStock}>
+                <div class="slds-text-color_success">
+                    <h1>All rice stock levels are sufficient.</h1>
+                </div>
+            </template>
+        </div>
+    </lightning-card>
+</template>
