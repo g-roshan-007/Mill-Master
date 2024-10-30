@@ -1,4 +1,4 @@
-# 🌟 Salesforce DX Project: MILLMASTER 🌾
+# Salesforce DX Project: MILLMASTER 🌾
 
 Welcome to the **MILLMASTER** Salesforce DX project! This project is designed for managing wholesale rice mill operations efficiently.
 
